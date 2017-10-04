@@ -7,8 +7,16 @@
   },
   "author": "Ralph E. El Jbeily",
   "license": "ISC",
-  "description": "",
+  "description": "How-to-npm step-by-step tutorial",
+  "repository": {
+    "url": "git+https://github.com/RalphJbeily/npm.git"
+  },
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/RalphJbeily/npm/issues"
+  },
+  "homepage": "https://github.com/RalphJbeily/npm#readme",
+  "devDependencies": {}
 }
